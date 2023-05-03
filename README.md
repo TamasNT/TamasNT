@@ -1,4 +1,4 @@
-# Hi, my name is Tamás Nagy 👋
+# 👋 Hi, my name is Tamás Nagy
 ### 👨‍💻 Android and Web Developer
 
 My focus is on the Android Native ecosystem, and I have worked on multiple projects using technologies in the area.
