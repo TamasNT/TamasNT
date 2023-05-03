@@ -49,7 +49,3 @@
 </div>
 
 ###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=TamasNT.TamasNT&left_color=aquamarine&right_color=aqua&left_text=Profile Views"  />
-
-###
