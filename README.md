@@ -7,6 +7,9 @@ I love facing new challenges, something I have done since the beginning of my pr
 
 I am passionate about creating visually striking and intuitive user interfaces that drive business growth. If you are looking for a Android or Web developer who can help bring your next project to life, please connect with me! I am excited to explore how I can help you.
 
+Favorite Project:
+https://play.google.com/store/apps/details?id=com.chatbot.dario
+
 
 ## 💻 Technologies:
 <div align="left">
